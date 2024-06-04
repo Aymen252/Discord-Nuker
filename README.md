@@ -11,9 +11,7 @@
 
 <p align="center">
 [<a href="https://github.com/AMIR-H-P/Discord-Nuker/#how-to-install"> How to install</a> ] - 
-[<a href="https://github.com/CatsSomeCat/Discord-H04X"> Discord-H04X</a> ] - 
-[<a href="https://discord.gg/kos"> Discord</a> ]
-
+[<a href="https://github.com/CatsSomeCat/Discord-H04X"> Discord-H04X</a> ] 
 </p>
 
 ### *Features :*
